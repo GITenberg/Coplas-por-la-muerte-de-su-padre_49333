@@ -1,16 +1,22 @@
 _repo: Coplas-por-la-muerte-de-su-padre_49333
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Foulché-Delbosc, R.
       gutenberg_agent_id: '45267'
       url: http://www.gutenberg.org/2009/agents/45267
+covers:
+- cover_type: archival
+  image_path: 49333-h/images/cover.jpg
 creator:
   author:
     agent_name: Manrrique, Jorge
     gutenberg_agent_id: '45266'
     url: http://www.gutenberg.org/2009/agents/45266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49333#Coplas-por-la-muerte-de-su-padre
 gutenberg_issued: '2015-06-30'
 gutenberg_type: Text
 identifiers:
